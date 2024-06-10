@@ -2,9 +2,7 @@
 # Overview
 
 
-
-Our Project is a System for Registering courses for university student using pycharm environment.
-
+ A System that used for Registering university courses by students. Developed using Python programming lanquage. 
 ![PHOTO-2022-10-31-19-22-28](https://user-images.githubusercontent.com/92388761/228068399-0c1a75f1-3890-440b-96d6-d98606919ac9.jpg)
 
 
